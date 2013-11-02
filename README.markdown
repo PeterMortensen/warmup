@@ -1,4 +1,4 @@
-Warmup - From Zero to a Solution w/everything in seconds. Your templates, your choices.
+Warmup - From Zero to a Solution with everything in seconds. Your templates, your choices.
 =======
 
 # LICENSE
@@ -13,13 +13,15 @@ Warmup allows you to define templates for entire projects and change them as tec
 
 ## Getting started with Warmup
 
-in the location you wan the new solution to reside run:
+In the location you want the new solution to reside in, run:
+
   [warmuppath]warmup.exe [template] [newSolutionName]
-ensure that the warmup.exe.config  has the correct path to your templates
+
+Ensure that the warmup.exe.config filehas the correct path to your templates.
 
 ### Downloads
 
- You can download the original Warmup from http://github.com/chucknorris/Warmup
+You can download the original Warmup from http://github.com/chucknorris/Warmup
 
 ### Gems  
 If you have Ruby 1.8.6+ (and Gems 1.3.7+) installed, you can get the current release of WarmuP to your machine quickly!  
@@ -50,9 +52,9 @@ This is the best way to get to the bleeding edge of what we are doing.
 
 # DONATE
 
-Donations Accepted - If you enjoy using this product or it has saved you time and money in some way, please consider making a donation (to the original author!). 
+Donations are accepted. If you enjoy using this product or it has saved you time and money in some way, please consider making a donation (to the original author!).
 
 It helps keep to the product updated, pays for various other costs, etc.
 
 # CREDITS
-see legal\CREDITS
+See legal\CREDITS
